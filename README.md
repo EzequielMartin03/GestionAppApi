@@ -4,4 +4,4 @@
 
 ✅ Autenticación con JWT 🔑 ✅ Permisos de usuario ✅ Rate Limiting 🔒 ✅ Filtros, búsqueda y paginación 🔍 ✅ Caché con Redis ⚡ ✅ Documentación interactiva con Swagger 📄
 
-🛠 Tecnologías utilizadas Django + Django REST Framework JWT (Simple JWT) Redis Swagger SqLite3
+🛠 Tecnologías utilizadas Django + Django REST Framework, JWT (Simple JWT), Redis, Swagger y SqLite3
